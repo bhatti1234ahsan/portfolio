@@ -1,0 +1,8 @@
+
+.main{
+    background: url('background.jpg');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
